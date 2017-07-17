@@ -1,0 +1,29 @@
+{
+  "msg":"success",
+  "res":[
+    {
+	  	"id":1,
+	    "shop":"恒之然旗舰店",
+	    "product":"随便",
+	    "price":"200.00",
+	    "discount_price":"180.00",
+	    "reserved_count":10
+  	},
+  	{
+  		"id":2,
+	    "shop":"下雨了啊啊啊",
+	    "product":"随便",
+	    "price":"200.00",
+	    "discount_price":"180.00",
+	    "reserved_count":10
+	 },
+	 {
+	  		"id":3,
+		    "shop":"下雨了啊啊啊",
+		    "product":"随便",
+		    "price":"200.00",
+		    "discount_price":"180.00",
+		    "reserved_count":10
+		 }
+  ]
+}
